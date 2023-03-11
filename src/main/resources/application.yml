@@ -5,3 +5,7 @@ netty:
   default:
     allocator:
       max-order: 3
+mikronaucik:
+  processing-time: 100
+  threads: 2
+  return-massage: "Hi"
